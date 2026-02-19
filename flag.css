@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+}
+.main {
+    border: 10px  black;
+    height: 300px;
+    width: 600px;
+    
+}
+.a {
+    height: 100px;
+    width: 300px;
+    background-color: rgb(28, 115, 208);
+}
+.b {
+    height: 100px;
+    width: 300px;
+    background-color: rgb(254, 254, 81);
+}
